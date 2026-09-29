@@ -1,0 +1,36 @@
+1|2026-09-19 11:12:44|NeoVerse system initialised
+2|2026-09-19 11:12:44|Login: alice
+3|2026-09-19 11:12:44|[t=1] Queue #1 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 2/10
+4|2026-09-19 11:12:44|[t=2] EMERGENCY OVERRIDE #4 Power Failure (sev 5) -> Power System: backup grid engaged, level now 95.0% / team: Grid Repair Squad
+5|2026-09-19 11:12:44|[t=3] EMERGENCY OVERRIDE #5 Network Overload (sev 4) -> Security System: traffic filtered and network scanned, threat level 5/10 / team: Cyber Defence Team
+6|2026-09-19 11:12:44|[t=4] EMERGENCY OVERRIDE #3 Network Overload (sev 4) -> Security System: traffic filtered and network scanned, threat level 8/10 / team: Cyber Defence Team
+7|2026-09-19 11:12:44|[t=5] Queue #2 Network Overload (sev 1) -> Security System: traffic filtered and network scanned, threat level 8/10
+8|2026-09-19 11:12:44|[t=6] EMERGENCY OVERRIDE #9 Power Failure (sev 4) -> Power System: backup grid engaged, level now 91.0% / team: Grid Repair Squad
+9|2026-09-19 11:12:44|[t=7] Queue #6 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 13
+10|2026-09-19 11:12:44|[t=8] Queue #7 Weather Alert (sev 1) -> Health System: ambulances dispatched, hospitals available 14
+11|2026-09-19 11:12:44|[t=9] Queue #8 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 88%
+12|2026-09-19 11:12:44|[t=10] EMERGENCY OVERRIDE #11 Power Failure (sev 4) -> Power System: backup grid engaged, level now 87.0% / team: Grid Repair Squad
+13|2026-09-19 11:12:44|[t=11] EMERGENCY OVERRIDE #12 Network Overload (sev 4) -> Security System: traffic filtered and network scanned, threat level 9/10 / team: Cyber Defence Team
+14|2026-09-19 11:12:44|[t=12] Queue #10 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 9/10
+15|2026-09-19 11:12:44|[t=13] Queue #13 Traffic Accident (sev 3) -> Transport System: routes diverted, traffic flow now 66%
+16|2026-09-19 11:12:44|[t=14] Queue #14 Network Overload (sev 3) -> Security System: traffic filtered and network scanned, threat level 9/10
+17|2026-09-19 11:12:44|[t=15] Queue #15 Power Failure (sev 2) -> Power System: backup grid engaged, level now 85.0%
+18|2026-09-19 11:12:44|[t=16] Queue #16 Traffic Accident (sev 3) -> Transport System: routes diverted, traffic flow now 44%
+19|2026-09-19 11:12:44|[t=17] Queue #17 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 15
+20|2026-09-19 11:12:44|[t=18] EMERGENCY OVERRIDE #20 Power Failure (sev 5) -> Power System: backup grid engaged, level now 80.0% / team: Grid Repair Squad
+21|2026-09-19 11:12:44|[t=19] Queue #18 Traffic Accident (sev 2) -> Transport System: routes diverted, traffic flow now 32%
+22|2026-09-19 11:12:44|[t=20] Queue #19 Weather Alert (sev 1) -> Health System: ambulances dispatched, hospitals available 16
+23|2026-09-19 11:12:44|[t=21] Queue #21 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 17
+24|2026-09-19 11:12:44|[t=22] Queue #22 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 30%
+25|2026-09-19 11:12:44|[t=23] Queue #23 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 28%
+26|2026-09-19 11:12:44|[t=24] EMERGENCY OVERRIDE #25 Network Overload (sev 5) -> Security System: traffic filtered and network scanned, threat level 9/10 / team: Cyber Defence Team
+27|2026-09-19 11:12:44|[t=25] Queue #24 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 26%
+28|2026-09-19 11:12:44|[t=26] Queue #26 Power Failure (sev 2) -> Power System: backup grid engaged, level now 78.0%
+29|2026-09-19 11:12:44|[t=27] Queue #27 Weather Alert (sev 1) -> Health System: ambulances dispatched, hospitals available 18
+30|2026-09-19 11:12:44|[t=28] Queue #28 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 9/10
+31|2026-09-19 11:12:44|[t=29] Queue #29 Network Overload (sev 1) -> Security System: traffic filtered and network scanned, threat level 9/10
+32|2026-09-19 11:12:44|Event #31 submitted by alice
+33|2026-09-19 11:12:44|Event #32 submitted by alice
+34|2026-09-19 11:12:44|Event #33 submitted by alice
+35|2026-09-19 11:12:44|Event #34 submitted by alice
+36|2026-09-19 11:12:44|Logout: alice

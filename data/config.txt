@@ -1,0 +1,7 @@
+# NeoVerse configuration (key=value)
+max_login_attempts=3
+emergency_threshold=4
+critical_alert_level=4
+sensor_retention_days=30
+log_retention_count=500
+simulation_seed=2035

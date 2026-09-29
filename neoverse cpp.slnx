@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="neoverse cpp.vcxproj" Id="d66c4ba9-93a2-4c6e-8be1-03bdc2f831e3" />
+</Solution>

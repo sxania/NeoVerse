@@ -1,0 +1,72 @@
+1|2026-09-19 15:11:31|NeoVerse system initialised
+2|2026-09-19 15:12:14|Login: alice
+3|2026-09-19 15:13:28|Event #1 submitted by alice
+4|2026-09-19 15:13:38|Event #2 submitted by alice
+5|2026-09-19 15:15:28|[t=1] Queue #1 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 88%
+6|2026-09-19 15:15:37|[t=2] Queue #2 Power Failure (sev 1) -> Power System: backup grid engaged, level now 99.0%
+7|2026-09-19 15:15:37|[t=3] EMERGENCY OVERRIDE #6 Power Failure (sev 5) -> Power System: backup grid engaged, level now 94.0% / team: Grid Repair Squad
+8|2026-09-19 15:15:37|[t=4] EMERGENCY OVERRIDE #7 Network Overload (sev 4) -> Security System: traffic filtered and network scanned, threat level 4/10 / team: Cyber Defence Team
+9|2026-09-19 15:15:37|[t=5] EMERGENCY OVERRIDE #5 Network Overload (sev 4) -> Security System: traffic filtered and network scanned, threat level 7/10 / team: Cyber Defence Team
+10|2026-09-19 15:15:37|[t=6] Queue #3 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 8/10
+11|2026-09-19 15:15:37|[t=7] EMERGENCY OVERRIDE #11 Power Failure (sev 4) -> Power System: backup grid engaged, level now 90.0% / team: Grid Repair Squad
+12|2026-09-19 15:15:37|[t=8] Queue #4 Network Overload (sev 1) -> Security System: traffic filtered and network scanned, threat level 8/10
+13|2026-09-19 15:15:37|[t=9] Queue #8 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 13
+14|2026-09-19 15:15:37|[t=10] Queue #9 Weather Alert (sev 1) -> Health System: ambulances dispatched, hospitals available 14
+15|2026-09-19 15:15:37|[t=11] EMERGENCY OVERRIDE #13 Power Failure (sev 4) -> Power System: backup grid engaged, level now 86.0% / team: Grid Repair Squad
+16|2026-09-19 15:15:37|[t=12] EMERGENCY OVERRIDE #14 Network Overload (sev 4) -> Security System: traffic filtered and network scanned, threat level 9/10 / team: Cyber Defence Team
+17|2026-09-19 15:15:37|[t=13] Queue #10 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 86%
+18|2026-09-19 15:15:37|[t=14] Queue #12 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 9/10
+19|2026-09-19 15:15:37|[t=15] Queue #15 Traffic Accident (sev 3) -> Transport System: routes diverted, traffic flow now 64%
+20|2026-09-19 15:15:37|[t=16] Queue #16 Network Overload (sev 3) -> Security System: traffic filtered and network scanned, threat level 9/10
+21|2026-09-19 15:15:37|[t=17] Queue #17 Power Failure (sev 2) -> Power System: backup grid engaged, level now 84.0%
+22|2026-09-19 15:15:37|[t=18] Queue #18 Traffic Accident (sev 3) -> Transport System: routes diverted, traffic flow now 42%
+23|2026-09-19 15:15:37|[t=19] EMERGENCY OVERRIDE #22 Power Failure (sev 5) -> Power System: backup grid engaged, level now 79.0% / team: Grid Repair Squad
+24|2026-09-19 15:15:37|[t=20] Queue #19 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 15
+25|2026-09-19 15:15:37|[t=21] Queue #20 Traffic Accident (sev 2) -> Transport System: routes diverted, traffic flow now 30%
+26|2026-09-19 15:15:37|[t=22] Queue #21 Weather Alert (sev 1) -> Health System: ambulances dispatched, hospitals available 16
+27|2026-09-19 15:15:37|[t=23] Queue #23 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 17
+28|2026-09-19 15:15:37|[t=24] Queue #24 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 28%
+29|2026-09-19 15:15:37|[t=25] Queue #25 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 26%
+30|2026-09-19 15:15:37|[t=26] EMERGENCY OVERRIDE #27 Network Overload (sev 5) -> Security System: traffic filtered and network scanned, threat level 9/10 / team: Cyber Defence Team
+31|2026-09-19 15:15:37|[t=27] Queue #26 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 24%
+32|2026-09-19 15:15:37|[t=28] Queue #28 Power Failure (sev 2) -> Power System: backup grid engaged, level now 77.0%
+33|2026-09-19 15:15:37|[t=29] Queue #29 Weather Alert (sev 1) -> Health System: ambulances dispatched, hospitals available 18
+34|2026-09-19 15:15:37|[t=30] Queue #30 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 9/10
+35|2026-09-19 15:15:37|[t=31] Queue #31 Network Overload (sev 1) -> Security System: traffic filtered and network scanned, threat level 9/10
+36|2026-09-19 15:15:37|[t=32] Queue #32 Traffic Accident (sev 1) -> Transport System: routes diverted, traffic flow now 22%
+37|2026-09-19 15:15:37|[t=33] Queue #33 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 9/10
+38|2026-09-19 15:15:37|[t=34] Queue #34 Power Failure (sev 1) -> Power System: backup grid engaged, level now 76.0%
+39|2026-09-19 15:15:37|[t=35] EMERGENCY OVERRIDE #35 Traffic Accident (sev 4) -> Transport System: routes diverted, traffic flow now 8% / team: Rapid Response Unit
+40|2026-09-19 15:15:37|[t=36] EMERGENCY OVERRIDE #37 Power Failure (sev 4) -> Power System: backup grid engaged, level now 72.0% / team: Grid Repair Squad
+41|2026-09-19 15:15:37|[t=37] Queue #36 Weather Alert (sev 2) -> Health System: ambulances dispatched, hospitals available 19
+42|2026-09-19 15:15:37|[t=38] Queue #38 Power Failure (sev 2) -> Power System: backup grid engaged, level now 70.0%
+43|2026-09-19 15:15:37|[t=39] Queue #39 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 9/10
+44|2026-09-19 15:15:37|[t=40] Queue #40 Power Failure (sev 2) -> Power System: backup grid engaged, level now 68.0%
+45|2026-09-19 15:15:37|[t=41] Queue #41 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 9/10
+46|2026-09-19 15:15:37|[t=42] Queue #42 Traffic Accident (sev 3) -> Transport System: routes diverted, traffic flow now 8%
+47|2026-09-19 15:15:37|[t=43] Queue #43 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 20
+48|2026-09-19 15:15:37|[t=44] EMERGENCY OVERRIDE #45 Network Overload (sev 4) -> Security System: traffic filtered and network scanned, threat level 9/10 / team: Cyber Defence Team
+49|2026-09-19 15:15:37|[t=45] EMERGENCY OVERRIDE #46 Network Overload (sev 5) -> Security System: traffic filtered and network scanned, threat level 9/10 / team: Cyber Defence Team
+50|2026-09-19 15:15:37|[t=46] EMERGENCY OVERRIDE #47 Weather Alert (sev 4) -> Health System: ambulances dispatched, hospitals available 19 / team: Disaster Relief Crew
+51|2026-09-19 15:15:37|[t=47] Queue #44 Traffic Accident (sev 2) -> Transport System: routes diverted, traffic flow now 8%
+52|2026-09-19 15:15:37|[t=48] Queue #48 Power Failure (sev 3) -> Power System: backup grid engaged, level now 65.0%
+53|2026-09-19 15:15:37|[t=49] Queue #49 Network Overload (sev 2) -> Security System: traffic filtered and network scanned, threat level 9/10
+54|2026-09-19 15:15:37|[t=50] Queue #50 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 20
+55|2026-09-19 15:15:37|[t=51] Queue #51 Network Overload (sev 3) -> Security System: traffic filtered and network scanned, threat level 9/10
+56|2026-09-19 15:15:37|[t=52] Queue #52 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 20
+57|2026-09-19 15:15:37|[t=53] Queue #53 Network Overload (sev 1) -> Security System: traffic filtered and network scanned, threat level 9/10
+58|2026-09-19 15:15:37|[t=54] Queue #54 Power Failure (sev 2) -> Power System: backup grid engaged, level now 63.0%
+59|2026-09-19 15:15:37|[t=55] EMERGENCY OVERRIDE #56 Network Overload (sev 4) -> Security System: traffic filtered and network scanned, threat level 9/10 / team: Cyber Defence Team
+60|2026-09-19 15:15:37|[t=56] EMERGENCY OVERRIDE #55 Weather Alert (sev 5) -> Health System: ambulances dispatched, hospitals available 19 / team: Disaster Relief Crew
+61|2026-09-19 15:15:37|[t=57] Queue #57 Power Failure (sev 2) -> Power System: backup grid engaged, level now 61.0%
+62|2026-09-19 15:15:37|[t=58] Queue #58 Weather Alert (sev 3) -> Health System: ambulances dispatched, hospitals available 20
+63|2026-09-19 15:15:37|[t=59] Queue #59 Power Failure (sev 2) -> Power System: backup grid engaged, level now 59.0%
+64|2026-09-19 15:21:09|[t=60] Queue #60 Power Failure (sev 2) -> Power System: backup grid engaged, level now 57.0%
+65|2026-09-19 15:25:51|Logout: alice
+66|2026-09-19 16:02:38|Login: alice
+67|2026-09-19 16:03:52|Logout: alice
+68|2026-09-19 16:17:23|Login: alice
+69|2026-09-19 16:18:16|Security System deactivated
+70|2026-09-19 16:18:19|Logout: alice
+71|2026-09-19 16:18:31|Login: alice
+72|2026-09-19 16:18:36|Logout: alice
